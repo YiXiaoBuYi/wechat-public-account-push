@@ -13,15 +13,15 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '677d6fccf17e346efa8289a5a617304d',
 
-  PROVINCE: '福建',
-  CITY: '台江',
+  PROVINCE: '福建省',
+  CITY: '台江区',
 
   USERS: [
     {
       // 想要发送的人的名字
       name: '嗨',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'ox7Lj6iuIgFlW6y_b99MFo8o1lG8',
+      id: 'ox7Lj6vS1WrdHcY6wJUmQeQF6jlo',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'D3NopxOKk94QCBi8XNoONg7kHmAmxxT87ij6OcZlJ3c',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
